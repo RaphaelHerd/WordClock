@@ -1,0 +1,1 @@
+led stripe ws2812  30 led/meter
