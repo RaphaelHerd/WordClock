@@ -1,0 +1,11 @@
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\github\WordClock\Code\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\github\WordClock\Code\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\music2\ffmpeg.exe
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\music2\youtube-dl.exe
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\music2\ffplay.exe
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\music2\ffprobe.exe
+D:\github\WordClock\Code\ConsoleApplication1\bin\Debug\file.txt
+D:\github\WordClock\Code\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
